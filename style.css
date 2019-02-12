@@ -11,7 +11,7 @@ body {
 	text-transform: uppercase;
 
 	background-color: #000000;
-	background-image: url("../img/background.jpg");
+	background-image: url("background.jpg");
 	background-position: top center;
 	background-repeat: no-repeat;
 }
@@ -594,7 +594,7 @@ input[type="radio"].visually-hidden {
 	width: 16px;
 	height: 18px;
 
-	background-image: url(../img/login.svg);
+	background-image: url(login.svg);
 	background-repeat: no-repeat;
 	background-position: 0 0;
 
@@ -665,7 +665,7 @@ input[type="radio"].visually-hidden {
 	color: #000000;
 
 	background-color: #f8f5f2;
-	background-image: url("../img/line.png");
+	background-image: url("line.png");
 	background-position: center;
 	background-repeat: no-repeat;
 }
